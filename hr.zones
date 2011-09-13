@@ -1,0 +1,7 @@
+DEFAULTS:
+Z1,Active Recovery,0%,0.9
+Z2,Endurance,68%,1.1
+Z3,Tempo,83%,1.2
+Z4,Threshold,94%,2
+Z5,VO2Max,105%,5
+
