@@ -70,7 +70,7 @@
 	<chart id="25" name="RT Plot" title="Performance" >
 		<property name="instanceName" type="QString" value="RT Plot" />
 		<property name="title" type="QString" value="Performance" />
-		<property name="subtitle" type="QString" value="Full plan found here --" />
+		<property name="subtitle" type="QString" value="" />
 		<property name="widthFactor" type="double" value="1.31579" />
 		<property name="heightFactor" type="double" value="1.35135" />
 		<property name="resizable" type="bool" value="1" />
