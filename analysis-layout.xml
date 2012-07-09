@@ -2,7 +2,11 @@
 	<chart id="16" name="Summary Window" title="Summary" >
 		<property name="instanceName" type="QString" value="Summary Window" />
 		<property name="title" type="QString" value="Summary" />
+<<<<<<< HEAD
 		<property name="subtitle" type="QString" value="Wednesday March 14, 2012, 6:13 PM" />
+=======
+		<property name="subtitle" type="QString" value="Friday June 29, 2012, 4:59 AM" />
+>>>>>>> new files
 		<property name="widthFactor" type="double" value="1" />
 		<property name="heightFactor" type="double" value="2" />
 		<property name="resizable" type="bool" value="0" />
@@ -105,7 +109,7 @@
 		<property name="widthFactor" type="double" value="2" />
 		<property name="heightFactor" type="double" value="2" />
 		<property name="resizable" type="bool" value="0" />
-		<property name="dateRange" type="QString" value="{00000000-0000-0000-0000-000000000001}" />
+		<property name="season" type="int" value="0" />
 		<property name="mode" type="int" value="0" />
 	</chart>
 	<chart id="10" name="Pf/Pv Window" title="QA" >
