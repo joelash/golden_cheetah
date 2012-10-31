@@ -51,15 +51,15 @@
 		<property name="instanceName" type="QString" value="Video Window" />
 		<property name="title" type="QString" value="Video Player" />
 		<property name="subtitle" type="QString" value="" />
-		<property name="widthFactor" type="double" value="4.16667" />
+		<property name="widthFactor" type="double" value="1.85185" />
 		<property name="heightFactor" type="double" value="1.35135" />
 		<property name="resizable" type="bool" value="1" />
 	</chart>
 	<chart id="25" name="RT Plot" title="Performance" >
 		<property name="instanceName" type="QString" value="RT Plot" />
 		<property name="title" type="QString" value="Performance" />
-		<property name="subtitle" type="QString" value="5 minutes Warm up" />
-		<property name="widthFactor" type="double" value="1.31579" />
+		<property name="subtitle" type="QString" value="" />
+		<property name="widthFactor" type="double" value="2.17391" />
 		<property name="heightFactor" type="double" value="1.35135" />
 		<property name="resizable" type="bool" value="1" />
 	</chart>
